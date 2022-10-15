@@ -1,4 +1,4 @@
-module in.shuvojit/kfk
+module github.com/sarkarshuvojit/kfk
 
 go 1.16
 
