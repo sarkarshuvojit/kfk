@@ -32,8 +32,6 @@ to quickly create a Cobra application.`,
         if !verbose {
             log.SetOutput(io.Discard)
         }
-        log.Println("It happenede")
-        log.Println(verbose)
     },
 }
 
